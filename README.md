@@ -1,16 +1,10 @@
 # ble_task
 
-A new Flutter project.
+-first open the app turn on blutooth and search for devices, then click on the device and you will 
+see the options (connect , disconnect , send data , write date) and the state of the device (connecting.. , connected , disconnected)
 
-## Getting Started
+-i dont have BLE real device so i used simulator app called (BLE peripheral Simulator) from google play 
 
-This project is a starting point for a Flutter application.
+the packeges used is : flutter_blue_plus
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
